@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/computer.jpeg";
+import image from "_../images/computer.jpeg_";
 
 const imageAltText = "laptop images with code on screen , cofee,notebook and plant on desk";
 
@@ -31,10 +31,10 @@ const imageAltText = "laptop images with code on screen , cofee,notebook and pla
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Text to speech converter",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Effortlessly transform text into spoken words with our seamless and versatile text-to-speech converter.",
+    url: " https://1palakgupta123.github.io/texttospeech/",
   },
   {
     title: "Web Development for Beginners",
