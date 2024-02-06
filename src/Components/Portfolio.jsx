@@ -35,7 +35,22 @@ const projectList = [
     description:
       "Effortlessly transform text into spoken words with our seamless and versatile text-to-speech converter.",
     url: " https://1palakgupta123.github.io/texttospeech/",
-  }
+  },
+  {
+    title: "Web Development for Beginners",
+    description: "Contributed sketch note imagery to accompany...",
+    url: "https://github.com/microsoft/web-dev-for-beginners",
+  },
+  {
+    title: "My Resume Site",
+    description: "check my resume",
+    url: "https://drive.google.com/drive/u/0/folders/1kyrd3FCykjEOFGqCKjvc0KIvQLPdh1K-",
+  },
+  {
+    title: "GitHub Codespaces and GitHub.dev",
+    description: "Video interview to explain when to use GitHub.dev...",
+    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
  
   
 ];
