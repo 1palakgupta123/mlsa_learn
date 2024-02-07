@@ -27,7 +27,7 @@ const imageAltText = "Palak Gupta - Web Developer and Frontend . ";
 */
 import image from "../images/girl.jpg";
 
-const imageAltText = "Palak Gupta - Web Developer and Frontend.";
+const imageAltText = "Palak Gupta - Web Developer.";
 
 
 const Home = ({ name, title }) => {

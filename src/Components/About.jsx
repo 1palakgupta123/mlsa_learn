@@ -19,7 +19,7 @@ import React from "react";
 
 import image from "../images/wood.jpg";
 
-const imageAltText = "wood background simple and beautiful";
+const imageAltText = "wood background simple and beautiful.";
 
 /**
  * Sort description that expan ids on your title on the Home component.

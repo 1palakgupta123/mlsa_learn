@@ -28,7 +28,7 @@ const siteProps = {
   title: "Web Developer & Frontend developer",
   email: "palak.gupta@studentambassadors.com",
   gitHub: "1palakgupta123",
-  instagram:"",
+  instagram:"palakgupta1001",
   linkedIn: "Palak Gupta",
   medium: "",
   twitter: "Palak Gupta",

@@ -21,7 +21,7 @@ import React from "react";
  */
 import image from "../images/computer.jpg";
 
-const imageAltText = "laptop images with code on screen, cofee, notebook and plant on desk";
+const imageAltText = "laptop images with code on screen, coffee, notebook and plant on desk";
 
 /**
  * Project list
